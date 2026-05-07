@@ -123,20 +123,20 @@ Referential integrity is enforced with foreign keys, cascade deletes, and unique
 
 ## 👥 Development Team — Group 11
 
-| Name | Student Number |
-|---|---|
-| Hanno du Toit | 50257889 |
-| Armand Lourens | 51018497 |
-| Schalk Pretorius | 51465353 |
-| Jayden Mollet | 50251562 |
-| Jordan Le Roux | 51722968 |
-| Neil Pieters | 51976064 |
-| Theo Odendaal | 45031509 |
-| Brandon Jubber | 45442940 |
+| Name |
+|---|
+| Hanno du Toit |
+| Armand Lourens |
+| Schalk Pretorius |
+| Jayden Mollet |
+| Jordan Le Roux |
+| Neil Pieters |
+| Theo Odendaal |
+| Brandon Jubber |
 
 ---
 
 ## 📚 Module
 
 **CMPG223 — Systems Analysis & Design**  
-North-West University, 2024
+North-West University, 2025
