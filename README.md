@@ -131,8 +131,6 @@ Referential integrity is enforced with foreign keys, cascade deletes, and unique
 | Jayden Mollet |
 | Jordan Le Roux |
 | Neil Pieters |
-| Theo Odendaal |
-| Brandon Jubber |
 
 ---
 
